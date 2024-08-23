@@ -21,7 +21,7 @@ este projeto tem a função de marcar nomes de usuario e guardar em uma tabela, 
 
 
 # autores
-Gabriel Kauan da Silva
+Brayan Negrelli Sorpilli Silva
 
  
 # turma:2° c 
